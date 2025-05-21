@@ -5,10 +5,9 @@ This repository will contain all my projects for this tutorial.
 
 ## Completion Status
 
-<img src="progress.svg" align="right" width="150" height="150" alt="Progress: 1/20"/>
+<img src="figures/progress.svg" align="right" width="150" height="150" alt="Progress: 2/20"/>
 
-| Day | Project | Completion Date |
-| --- | ------- | --------------- |
-| 16 - 18 | WeSplit | 21 May 2025  |
-| 19 | Challenge Day | N/A |
-
+| Project |
+| ------- |
+| WeSplit <br/> Day: 16 - 18 <br/> Completion Date: 21 May 2025 <br/> Screenshot:<br/> <img src="figures/WeSplit.png" height="300" alt="WeSplit"/> |
+| UnitConverter <br/> Day: 19 <br/> Completion Date: 21 May 2025 <br/> Screenshot:<br/> <img src="figures/UnitConverter.png" height="300" alt="UnitConverter"/> |
