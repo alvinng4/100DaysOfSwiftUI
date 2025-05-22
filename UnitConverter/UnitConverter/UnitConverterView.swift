@@ -41,7 +41,7 @@ struct UnitConverterView: View
             case .Kelvin:
                 return output
             case .Celsius:
-                return output + 273.15
+                return output - 273.15
             case .Fahrenheit:
                 return (output - 273.15) * 9.0 / 5.0 + 32.0
         }
