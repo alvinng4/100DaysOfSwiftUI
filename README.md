@@ -10,3 +10,4 @@ This repository will contain all my projects for this tutorial.
 | WeSplit <br/> Day: 16 - 18 <br/> Completed on 21 May 2025 | <img src="figures/WeSplit.png" height="300" alt="WeSplit"/> |
 | UnitConverter <br/> Day: 19 <br/> Completed on 22 May 2025 | <img src="figures/UnitConverter.png" height="300" alt="UnitConverter"/> |
 | GuessTheFlag <br/> Day: 20 - 22 <br/> Completed on 22 May 2025 | <img src="figures/GuessTheFlag.png" height="300" alt="GuessTheFlag"/> |
+| ViewAndModifier <br/> Day: 23 - 24 <br/> Completed on 23 May 2025 | <img src="figures/ViewAndModifier.png" height="300" alt="ViewAndModifier"/> |

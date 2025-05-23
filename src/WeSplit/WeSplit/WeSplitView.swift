@@ -66,7 +66,7 @@ struct WeSplitView: View
                         format: .currency(
                             code: Locale.current.currency?.identifier ?? "USD"
                         )
-                    )
+                    ).foregroundStyle(tipPercentage == 0 ? .red : .black) // Project 3 Challenge 1
                 }
 
                 Section("Amount per person")

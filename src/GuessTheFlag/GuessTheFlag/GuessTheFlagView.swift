@@ -1,5 +1,17 @@
 import SwiftUI
 
+// Project 3 Challenge 2
+struct FlagImage: View
+{
+    let country: String
+    var body: some View
+    {
+        Image(country)
+            .clipShape(.capsule)
+            .shadow(radius: 5)
+    }
+}
+
 struct GuessTheFlagView: View
 {
     @State private var countries: [String] = ["Estonia", "France", "Germany", "Ireland", "Italy", "Nigeria", "Poland", "Spain", "UK", "Ukraine", "US"].shuffled()
@@ -48,9 +60,7 @@ struct GuessTheFlagView: View
                         }
                         label:
                         {
-                            Image(countries[idx])
-                                .clipShape(.capsule)
-                                .shadow(radius: 5)
+                            FlagImage(country: countries[idx])
                         }
                     }
                 }
