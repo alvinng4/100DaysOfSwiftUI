@@ -13,3 +13,4 @@ This repository will contain all my projects for this tutorial.
 | ViewAndModifier <br/> Day: 23 - 24 <br/> Completed on 23 May 2025 | <img src="figures/ViewAndModifier.png" height="300" alt="ViewAndModifier"/> |
 | BetterRest <br/> Day: 26 - 28 <br/> Completed on 25 May 2025 | <img src="figures/BetterRest.png" height="300" alt="BetterRest"/> |
 | WordScramble <br/> Day: 29 - 31 <br/> Completed on 26 May 2025 | <img src="figures/WordScramble.png" height="300" alt="WordScramble"/> |
+| iExpense <br/> Day: 36 - 38 <br/> Completed on 27 May 2025 | <img src="figures/iExpense.png" height="300" alt="iExpense"/> |
