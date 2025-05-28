@@ -3,7 +3,7 @@
 Welcome to my repository for [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui).
 This repository will contain all my projects for this tutorial.
 
-## Completion Status
+## Completed Projects
 
 | Project | Screenshot |
 | ------- | ---------- |
@@ -14,3 +14,4 @@ This repository will contain all my projects for this tutorial.
 | BetterRest <br/> Day: 26 - 28 <br/> Completed on 25 May 2025 | <img src="figures/BetterRest.png" height="300" alt="BetterRest"/> |
 | WordScramble <br/> Day: 29 - 31 <br/> Completed on 26 May 2025 | <img src="figures/WordScramble.png" height="300" alt="WordScramble"/> |
 | iExpense <br/> Day: 36 - 38 <br/> Completed on 27 May 2025 | <img src="figures/iExpense.png" height="300" alt="iExpense"/> |
+| Moonshot <br/> Day: 39 - 42 <br/> Completed on 28 May 2025 | <img src="figures/Moonshot.png" height="300" alt="Moonshot"/> |
