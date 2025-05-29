@@ -15,3 +15,4 @@ This repository will contain all my projects for this tutorial.
 | WordScramble <br/> Day: 29 - 31 <br/> Completed on 26 May 2025 | <img src="figures/WordScramble.png" height="300" alt="WordScramble"/> |
 | iExpense <br/> Day: 36 - 38 <br/> Completed on 27 May 2025 | <img src="figures/iExpense.png" height="300" alt="iExpense"/> |
 | Moonshot <br/> Day: 39 - 42 <br/> Completed on 28 May 2025 | <img src="figures/Moonshot.png" height="300" alt="Moonshot"/> |
+| HabitTracker <br/> Day: 47 <br/> Completed on 29 May 2025 | <img src="figures/HabitTracker1.png" height="300" alt="HabitTracker1"/> <img src="figures/HabitTracker2.png" height="300" alt="HabitTracker2"/> |
