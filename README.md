@@ -19,3 +19,4 @@ This repository will contain all my projects for this tutorial.
 | CupcakeCorner <br/> Day: 49 - 52 <br/> Completed on 31 May 2025 | <img src="figures/CupcakeCorner.png" height="300" alt="CupcakeCorner"/> |
 | Bookworm <br/> Day: 53 - 56 <br/> Completed on 1 June 2025 | <img src="figures/Bookworm.png" height="300" alt="Bookworm"/> |
 | Instafilter <br/> Day: 62 - 67 <br/> Completed on 5 June 2025 | <img src="figures/Instafilter.png" height="300" alt="Instafilter"/> |
+| BucketList <br/> Day: 68 - 73 <br/> Completed on 6 June 2025 | <img src="figures/BucketList.png" height="300" alt="BucketList"/> |
